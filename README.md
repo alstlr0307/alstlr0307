@@ -73,9 +73,8 @@
 ---
 
 ### 4) 코드어드벤쳐 — 게임형 코딩 학습 플랫폼
-> 역할:  조원 (DB 구조 개선 / 캐릭터 이미지 설계)
-> Tech: MySQL
-> Link:  
+> 역할: 조원(DB 구조 개선 / 캐릭터 이미지 설계)  
+> Link: 
 <p>
   <img src="https://raw.githubusercontent.com/ZonezIpex/ZonezIpex.github.io/main/%EC%BD%94%EB%93%9C%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B3%90%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="520" alt="codeadventure" />
 </p>
