@@ -1,5 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=웹+백엔드+개발자 김민식;AI를 활용한 서비스 설계와 구현" />
+  <h1 align="center">김민식</h1>
+</p>
+
+<p align="center">
+  <strong>웹 백엔드 개발자</strong><br/>
+  <span style="color:#2563eb">
+    / 데이터를 중심으로 서비스 구조를 설계하는 사람 /
+  </span>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Structure--Driven-2563eb?style=flat" />
+  <img src="https://img.shields.io/badge/AI-Service%20Design-0f172a?style=flat" />
 </p>
 
 ---
